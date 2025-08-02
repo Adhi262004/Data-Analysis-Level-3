@@ -1,0 +1,10 @@
+### Level 3 – Task 2: Restaurant Clustering (KMeans)
+
+**Features Used**: Aggregate Rating, Votes, Price Range  
+**Normalization**: StandardScaler  
+**Number of Clusters (K)**: 4
+
+**Observations**:
+- Restaurants were grouped into 4 distinct clusters.
+- Visual patterns suggest separation by rating and popularity.
+- Helps in market segmentation, pricing strategy, and targeting.

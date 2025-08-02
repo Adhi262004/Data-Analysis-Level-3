@@ -1,0 +1,12 @@
+summary = "### Level 3 – Task 3: Price vs. Online Delivery and Table Booking\n\n"
+summary += grouped.to_string(index=False)
+summary += "\n\nObservations:\n- Higher priced restaurants more often offer Table Booking.\n"
+summary += "- Online Delivery is slightly more common in lower price ranges."
+
+with open("Task_L3_ServiceAvailability_Summary.txt", "w") as f:
+    f.write(summary)
+Once you run it, you’ll get:
+
+✅ Level_3_Task3_ServiceAvailabilityPlot.png
+
+✅ Task_L3_ServiceAvailability_Summary.txt
